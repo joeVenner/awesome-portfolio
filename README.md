@@ -5,4 +5,4 @@ Live Demo [lafrimi.me](https://www.lafrimi.me) built with [React](https://reactj
 
 This website's design is both simple and accessible. Dynamic particles create an experience that is interactive and visually inviting. The site offers two themes via a toggle, dark mode (default) and light mode. Once toggled, the selected theme should persist between tabs, windows, and page reloads.
 
-<img float="center"  src="https://i.ibb.co/QQsVFFP/portfolio2.gif" alt="Desktop Preview" aria-label="desktop screenshot"> 
+<img float="center" href="lafrimi.me" src="https://i.ibb.co/QQsVFFP/portfolio2.gif" alt="Desktop Preview" aria-label="desktop screenshot"> 
