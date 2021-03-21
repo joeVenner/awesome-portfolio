@@ -35,6 +35,6 @@ Source : [https://fontawesome.com/icons](Font Awesome Icons)
 
 Please support us by giving the project a star!
 
-### Credits 
+### ❤️ Credits 
 
 Givig Credits to [https://github.com/adamalston/v2](@adam) 
