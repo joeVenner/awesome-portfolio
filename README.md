@@ -28,9 +28,13 @@ This website's design is both simple and accessible. Dynamic particles create an
 
 ### <img src="https://git.io/JUnJT" height="18"> Icons
 
-Source : Font Awesome Icons
+Source : [https://fontawesome.com/icons](Font Awesome Icons)
 
 
 ### ⭐ Support 
 
 Please support us by giving the project a star!
+
+### Credits 
+
+Givig Credits to [https://github.com/adamalston/v2](@adam) 
